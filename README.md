@@ -1,9 +1,9 @@
-MEAN Sample with Angular 5.1.0
+# MEAN Sample with Angular 5.1.0
 Source code for Create a GET,PUT,POST & DELETE app using Angular 5, EXPRESS.js, Node.js and MongoDB.
 
 This project is developed by Davide Violante in (https://github.com/DavideViolante/Angular-Full-Stack), I am uploading it in my repository to show the design pattern that I am following in Node.js ,Angular 5, Express.js and MongoDB application development.
 
-Setup
+# Setup
 1 - git clone https://github.com/AliMol/MEAN-Sample-with-Angular-5.1.0.git
 
 2 - in a new CMD window cd into installed folder : MEAN-Sample-with-Angular-5.1.0
